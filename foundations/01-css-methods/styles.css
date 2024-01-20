@@ -1,8 +1,9 @@
 div{
-    background-color: red;
+    background-color: pink;
     color: white;
     font-size: 32px;
     text-align: center;
-    font-style: bold;
+    font-weight: bold;
+    font-family: serif;
 
 }
