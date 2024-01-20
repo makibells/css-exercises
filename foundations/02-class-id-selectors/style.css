@@ -1,5 +1,21 @@
 .odd {
     background-color: lightpink;
     font-family: Verdana , sans-serif;
-    
+
+}
+#no2 {
+        color: blue;
+        font-size: 36px;
+
+}
+
+#no2 {
+    font-size: 24px;
+
+}
+
+#no4 {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
 }
