@@ -5,7 +5,7 @@ body {
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
-  font-weight: 800;
+  font-weight: bolder;
 }
 
 .para {
@@ -14,7 +14,7 @@ body {
 
 .para.small-para {
   font-size: 15px;
-  font-weight: 800;
+  font-weight: bolder;
 }
 
 
@@ -38,6 +38,6 @@ div.text {
 
 .text .child {
   color: rgb(0, 0, 0);
-  font-weight: 800;
+  font-weight: bolder;
   font-size: 14px;
 }
