@@ -23,12 +23,6 @@ body {
 }
 
 
-div .text {
-  color: rgb(0, 0, 0);
-  font-size: 10px;
-  font-weight: 100;
-}
-
 #confirm-button {
   background-color: green;
   color: white;
@@ -38,5 +32,12 @@ div .text {
 
 div {
   font-size: 20px;
+  color: rgb(0, 0, 0);
 
+}
+
+.text .child {
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
 }
