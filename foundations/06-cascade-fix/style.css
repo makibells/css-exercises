@@ -8,14 +8,15 @@ body {
   font-weight: bold;
 }
 
+.para {
+  font-size: 40px;
+}
+
 .small-para {
   font-size: 15px;
   font-weight: bold;
 }
 
-.para {
-  font-size: 40px;
-}
 
 .confirm {
   background: green;
