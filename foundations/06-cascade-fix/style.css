@@ -5,7 +5,7 @@ body {
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
-  font-weight: 1000;
+  font-weight: 800;
 }
 
 .para {
@@ -14,7 +14,7 @@ body {
 
 .para.small-para {
   font-size: 15px;
-  font-weight: 1000;
+  font-weight: 800;
 }
 
 
@@ -33,6 +33,7 @@ body {
 div.text {
   font-size: 50px;
   color: rgb(0, 0, 0);
+  font-weight: 100;
 
 }
 
