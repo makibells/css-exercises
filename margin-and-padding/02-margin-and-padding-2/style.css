@@ -27,7 +27,7 @@ body {
   background: #e3f4ff;
   border: white solid 4px; 
   margin: 0;
-  padding: 16px 8px ;
+  padding: 16px 5px;
   font-size: 16px;
   
 }
@@ -37,6 +37,7 @@ body {
   border: white solid 4px; 
   text-align: center;
   padding: 8px;
+  font-size: 16px;
 
 
 }
